@@ -1,0 +1,2 @@
+class LuLockError(Exception):
+    pass
